@@ -1,0 +1,15 @@
+eel
+opencv-python
+opencv-contrib-python
+hugchat
+pyautogui
+pillow
+pvporcupine
+pyaudio
+sounddevice
+pywhatkit
+wikipedia
+pyjokes
+pygame
+pyttsx3
+SpeechRecognition
